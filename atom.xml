@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Classical is something not fade,but grow more precious with time pass by,so is dream id dream.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://dreamapple.me/"/>
-  <updated>2015-11-04T15:31:17.000Z</updated>
+  <updated>2015-11-04T18:31:14.000Z</updated>
   <id>http://dreamapple.me/</id>
   
   <author>
@@ -19,20 +19,21 @@
     <link href="http://dreamapple.me/2015/11/04/hello/"/>
     <id>http://dreamapple.me/2015/11/04/hello/</id>
     <published>2015-11-04T03:25:25.000Z</published>
-    <updated>2015-11-04T15:31:17.000Z</updated>
+    <updated>2015-11-04T18:31:14.000Z</updated>
     <content type="html"><![CDATA[<h1 id="tell_me_something">tell me something</h1><ul>
 <li>hello</li>
 <li>tell</li>
 <li>ll</li>
 </ul>
+<a id="more"></a>
 ]]></content>
     <summary type="html">
     <![CDATA[<h1 id="tell_me_something">tell me something</h1><ul>
 <li>hello</li>
 <li>tell</li>
 <li>ll</li>
-</ul>
-]]>
+</ul>]]>
+    
     </summary>
     
       <category term="angular" scheme="http://dreamapple.me/tags/angular/"/>
@@ -50,19 +51,25 @@
     <link href="http://dreamapple.me/2015/11/04/hello-world/"/>
     <id>http://dreamapple.me/2015/11/04/hello-world/</id>
     <published>2015-11-04T02:58:06.000Z</published>
-    <updated>2015-11-04T05:39:02.000Z</updated>
+    <updated>2015-11-04T18:31:27.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
 <h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<a id="more"></a>
 <h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html">Server</a></p>]]>
+    
     </summary>
     
   </entry>
