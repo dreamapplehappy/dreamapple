@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[League of Coding Legends]]></title>
   <subtitle><![CDATA[Classical is something not fade,but grow more precious with time pass by,so is dream id dream.]]></subtitle>
-  <link href="/dreamapple/atom.xml" rel="self"/>
-  <link href="http://dreamapplehappy.github.io/dreamapple/"/>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://dreamapple.me/"/>
   <updated>2015-11-04T15:31:17.000Z</updated>
-  <id>http://dreamapplehappy.github.io/dreamapple/</id>
+  <id>http://dreamapple.me/</id>
   
   <author>
     <name><![CDATA[dreamapple]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[hello]]></title>
-    <link href="http://dreamapplehappy.github.io/dreamapple/2015/11/04/hello/"/>
-    <id>http://dreamapplehappy.github.io/dreamapple/2015/11/04/hello/</id>
+    <link href="http://dreamapple.me/2015/11/04/hello/"/>
+    <id>http://dreamapple.me/2015/11/04/hello/</id>
     <published>2015-11-04T03:25:25.000Z</published>
     <updated>2015-11-04T15:31:17.000Z</updated>
     <content type="html"><![CDATA[<h1 id="tell_me_something">tell me something</h1><ul>
@@ -35,20 +35,20 @@
 ]]>
     </summary>
     
-      <category term="angular" scheme="http://dreamapplehappy.github.io/dreamapple/tags/angular/"/>
+      <category term="angular" scheme="http://dreamapple.me/tags/angular/"/>
     
-      <category term="css" scheme="http://dreamapplehappy.github.io/dreamapple/tags/css/"/>
+      <category term="css" scheme="http://dreamapple.me/tags/css/"/>
     
-      <category term="javascript" scheme="http://dreamapplehappy.github.io/dreamapple/tags/javascript/"/>
+      <category term="javascript" scheme="http://dreamapple.me/tags/javascript/"/>
     
-      <category term="hello" scheme="http://dreamapplehappy.github.io/dreamapple/categories/hello/"/>
+      <category term="hello" scheme="http://dreamapple.me/categories/hello/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://dreamapplehappy.github.io/dreamapple/2015/11/04/hello-world/"/>
-    <id>http://dreamapplehappy.github.io/dreamapple/2015/11/04/hello-world/</id>
+    <link href="http://dreamapple.me/2015/11/04/hello-world/"/>
+    <id>http://dreamapple.me/2015/11/04/hello-world/</id>
     <published>2015-11-04T02:58:06.000Z</published>
     <updated>2015-11-04T05:39:02.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -69,8 +69,8 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://dreamapplehappy.github.io/dreamapple/2015/11/04/Hello-World-0/"/>
-    <id>http://dreamapplehappy.github.io/dreamapple/2015/11/04/Hello-World-0/</id>
+    <link href="http://dreamapple.me/2015/11/04/Hello-World-0/"/>
+    <id>http://dreamapple.me/2015/11/04/Hello-World-0/</id>
     <published>2015-11-04T02:58:06.000Z</published>
     <updated>2015-11-04T02:58:06.000Z</updated>
     <content type="html"></content>
