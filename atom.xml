@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Classical is something not fade,but grow more precious with time pass by,so is dream id dream.]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://dreamapple.me/"/>
-  <updated>2015-11-06T08:16:24.000Z</updated>
+  <updated>2015-11-07T14:59:12.000Z</updated>
   <id>http://dreamapple.me/</id>
   
   <author>
@@ -13,6 +13,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hexo Your Blog]]></title>
+    <link href="http://dreamapple.me/2015/11/07/Hexo-Your-Blog/"/>
+    <id>http://dreamapple.me/2015/11/07/Hexo-Your-Blog/</id>
+    <published>2015-11-07T14:10:56.000Z</published>
+    <updated>2015-11-07T14:59:12.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>关于<code>hexo</code>的创建人</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>很久之前我就使用过<code>hexo</code>搭建过自己的博客,当时只是纯粹的觉得好玩,就搭建了一个博客;不过后来也没怎么使用过,也没有仔细的好好研究一下;最近心血来潮,就认真的研究了一下,感觉确实挺好玩的;所以就写了这个博客里面的第一篇博客(搭好了就没有动力去写博客了^_^)</p>
+</blockquote>
+<h1 id="磨刀不误砍柴工,搭建博客前的准备">磨刀不误砍柴工,搭建博客前的准备</h1><ul>
+<li>git的安装</li>
+<li>node的安装</li>
+<li>npm的安装</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>关于<code>hexo</code>的创建人</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>很久之前我就使用过<code>hexo</code>搭建过自己的博客,当时只是纯粹的觉得好玩,就搭建了一个博客;不过后来也]]>
+    </summary>
+    
+      <category term="blog" scheme="http://dreamapple.me/tags/blog/"/>
+    
+      <category term="hexo" scheme="http://dreamapple.me/tags/hexo/"/>
+    
+      <category term="乐趣" scheme="http://dreamapple.me/categories/%E4%B9%90%E8%B6%A3/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[AngularJS]]></title>
