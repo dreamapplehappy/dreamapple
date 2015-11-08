@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en" id="html">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="http://7xjhmj.com1.z0.glb.clouddn.com/MusicPlayer-style.css"/>
+
+  <style>
+    #html{ overflow-y: scroll; }
+
+    #body{
+      background: #444 url(/images/bg.jpg) repeat 0 0 scroll;
+
+    }
+    #title{
+      background:transparent url(/images/title.png) 0 0 scroll;
+      position:absolute;
+      top:60px;
+      left:24px;
+      height:62px;
+      width:334px;
+    }
+
+    #download{
+      position:absolute;
+      top:132px;
+      left:30px;
+      text-decoration:none;
+      font-size:12px;
+      color:#999;
+      font-family:arial, sans-serif;
+    }
+
+    #download:hover{
+      color:#fff;
+    }
+  </style>
+    <script src="http://7xjhmj.com1.z0.glb.clouddn.com/MusicPlayer-jquery-1.6.1.min.js"></script>
+    <script src="http://7xjhmj.com1.z0.glb.clouddn.com/MusicPlayer-jquery.jplayer.js"></script>
+    <script src="http://7xjhmj.com1.z0.glb.clouddn.com/MusicPlayer-ttw-music-player-min.js"></script>
+    <script>
+        var myPlaylist = [
+            {
+                mp3:'http://7xjhmj.com1.z0.glb.clouddn.com/XYT-DYFZ.mp3',
+                title:'Sample',
+                artist:'Sample',
+                rating:4,
+                buy:'#',
+                price:'0.99',
+                duration:'0:30',
+                cover:'http://7xjhmj.com1.z0.glb.clouddn.com/iM-2015-10-30-WNZDXPC.jpg'
+            }
+        ];
+    </script>
+    <script>
+        $(document).ready(function(){
+            var description = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id tortor nisi. Aenean sodales diam ac lacus elementum scelerisque. Suspendisse a dui vitae lacus faucibus venenatis vel id nisl. Proin orci ante, ultricies nec interdum at, iaculis venenatis nulla. ';
+            $('body').ttwMusicPlayer(myPlaylist, {
+                autoPlay:false,
+                description:description,
+                jPlayer:{
+                    swfPath:'../plugin/jquery-jplayer'
+                }
+            });
+        });
+    </script>
+</head>
+<body id="body">
+
+</body>
+</html>
